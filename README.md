@@ -43,13 +43,13 @@ The Miner Supports the following algorithms:
 The Donators Who Supported Me By Donating XVG (Any Amount)
 (List of Up-To-Date Donators Can Be Found In Credit Section In Software)
 
-**Gridcore** - XVGUI Miner Developer + Splashscreen
-**NiteShadow & Alchemi** - Splashscreen
-**VergeDev** - Developing Vergecoin
-**Waveon3** - Designing The GUI + New XVG Wallet
-**CC66** - Beta Tester
-**Wit_sec_birb** - Beta Tester
-**TriangleMan** - Beta Tester
+- **Gridcore** - XVGUI Miner Developer + Splashscreen
+- **NiteShadow & Alchemi** - Splashscreen
+- **VergeDev** - Developing Vergecoin
+- **Waveon3** - Designing The GUI + New XVG Wallet
+- **CC66** - Beta Tester
+- **Wit_sec_birb** - Beta Tester
+- **TriangleMan** - Beta Tester
 
 **And The Entire #VERGE Community**
 
