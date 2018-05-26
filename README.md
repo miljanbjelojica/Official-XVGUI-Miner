@@ -3,9 +3,9 @@ The Official XVGUI Miner For Verge Coin CryptoCurrency
 
 The XVGUI Miner is designed for new cryptocurrency users who are having difficulty mining the verge coin due to the confusion that may occur due to the different algorithms, many available pools and no to little mining understanding. This Miner software is developed to ensure its ease of use.
 
-The Developer (gridcore) Does **NOT** earn Anything From the XVGUI Miner, It does **NOT** have dev fees and does NOT mine for the developer. XVGUI Miner is run by the community any donations can be given through the software donate addresses provided (click **donate** button in software).
+The Developer (gridcore) Does **NOT** earn Anything From the XVGUI Miner, The miner does **NOT** have dev fees and does **NOT** mine for the developer. XVGUI Miner is run by the community any donations can be given to the developer through the software donate addresses provided (click **donate** button in software).
 
-The Miner has been has 2 coloured themes for the user to use anytime, **Light theme** which is brighter and **stealth theme** which is darker, The GUI has been adopted and based around the new XVG wallet which was designed by a core marketing team member (Waveon3)
+The Miner has been developed with 2 coloured themes for the user to use anytime, **Light theme** which is brighter and **stealth theme** which is darker, The GUI has been adopted and based around the new XVG wallet which was designed by a core marketing team member (Waveon3)
 
 The Miner allows the user to select the mining algorithm of their choice and select any of the popular pre-set mining pools available in the software. The user can also connect to a custom pool of their choice. Copy YOUR XVG Address or your pool account username / worker into the Miner (depending on which pool you are mining on) and enter the pool password (Default is X).
 
