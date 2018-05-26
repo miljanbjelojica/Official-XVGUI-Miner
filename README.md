@@ -11,7 +11,7 @@ The Miner allows the user to select the mining algorithm of their choice and sel
 
 The miner allows the user to save its settings which was set by the user so they do not need to be entered if the software is reopened.
 
-The Miner has a live value feed which updates every 5 minutes, which displays the current value of 1 XVG in bitcoin (santoshi) and in dollar ($). Binance and coinmarketcap API's are used to retrieve this information.
+The Miner has a live value feed which updates every 5 minutes, which displays the current value of 1 XVG in bitcoin (satoshi) and in dollar ($). Binance and coinmarketcap API's are used to retrieve this information.
 
 The Miner allows the user to lookup the computer hardware specs such as 
 - CPU // Processor name, Processor Speed and processor max threads
