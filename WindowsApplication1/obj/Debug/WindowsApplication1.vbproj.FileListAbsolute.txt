@@ -1,0 +1,23 @@
+c:\users\default.laptop-3obie4rf\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\default.laptop-3obie4rf\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\default.laptop-3obie4rf\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\default.laptop-3obie4rf\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\default.laptop-3obie4rf\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\default.laptop-3obie4rf\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\default.laptop-3obie4rf\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\default.laptop-3obie4rf\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\default.laptop-3obie4rf\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\default.laptop-3obie4rf\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\default.laptop-3obie4rf\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner - Source GitHub\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner - Source GitHub\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner - Source GitHub\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner - Source GitHub\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner - Source GitHub\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner - Source GitHub\WindowsApplication1\bin\Debug\XVGUI Miner.exe.config
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner - Source GitHub\WindowsApplication1\bin\Debug\XVGUI Miner.exe
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner - Source GitHub\WindowsApplication1\bin\Debug\XVGUI Miner.pdb
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner - Source GitHub\WindowsApplication1\bin\Debug\XVGUI Miner.xml
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner - Source GitHub\WindowsApplication1\obj\Debug\XVGUI Miner.exe
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner - Source GitHub\WindowsApplication1\obj\Debug\XVGUI Miner.xml
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner - Source GitHub\WindowsApplication1\obj\Debug\XVGUI Miner.pdb
