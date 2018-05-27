@@ -1,6 +1,8 @@
 # Official-XVGUI-Miner
 The Official XVGUI Miner For Verge Coin CryptoCurrency
 
+XVGUI Miner currently supports Windows operating systems.
+
 The XVGUI Miner is designed for new cryptocurrency users who are having difficulty mining the verge coin due to the confusion that may occur due to the different algorithms, many available pools and no to little mining understanding. This Miner software is developed to ensure its ease of use.
 
 The Developer (gridcore) Does **NOT** earn Anything From the XVGUI Miner, The miner does **NOT** have dev fees and does **NOT** mine for the developer. XVGUI Miner is run by the community any donations can be given to the developer through the software donate addresses provided (click **donate** button in software).
