@@ -40,6 +40,8 @@ The Miner Supports the following algorithms:
 **AMD GPU -**
 - Lyra2RE
 
+Laptops can use the CPU to mine, Laptops with the nvidia 1000 series models are also supported to mine with this XVGUI Miner
+
 **Credits:**
 
 The Donators Who Supported Me By Donating XVG (Any Amount)
